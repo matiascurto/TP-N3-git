@@ -9,7 +9,7 @@ $num6 = $_POST['Numero6'];
 $num7 = $_POST['Numero7'];
 $num8 = $_POST['Numero8'];
 
-  $promedio = ($num1+$num2+$num3+$num4+$num5+$num6+$num7+$num8+) /8;  
+  $promedio = ($num1+$num2+$num3+$num4+$num5+$num6+$num7+$num8) /8;  
  
   if ($promedio <= 1000) {
     echo "El promedio de sueldo es: " .$promedio. " <br> Rango de sueldo BAJO";
