@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+body {
+    text-align: center;
+}
+
+.calcular {
+    text-align: center;
+    position: relative;
+}
+
+input {
+   background-color: rgb(208, 205, 205);
+   border: 1px solid #ddd;
+   color: rgb(0, 0, 0);
+   padding: 8px 20px;
+   margin-bottom: 20px;
+   margin-left: 30px;
+   cursor: pointer;
+}
